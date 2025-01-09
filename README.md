@@ -83,6 +83,9 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 ## Deployment
 
+https://yt-playlist-analyzer-production.up.railway.app/
+
+
 Before deploying, ensure your hosting environment supports server-side scraping with Playwright. You may need to install additional dependencies or use a specialized deployment platform.
 
 ---
